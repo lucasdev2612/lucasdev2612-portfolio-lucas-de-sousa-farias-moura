@@ -42,6 +42,8 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex2/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex3/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex4/) |
+| **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex5/) |
+
 
  
 #### 🤖 Inteligência Artificial
