@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o [1° semestre] período de [Engenharia de Software] na [Universidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Cyber segurança / Banco de dados / Densenvolvedor Full Stack].
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
