@@ -1,4 +1,4 @@
-# [Lucas de Sousa Farias Moura]
+# Lucas de Sousa Farias Moura
 > Estudante de [Engenharia de Software]
  
 ---
