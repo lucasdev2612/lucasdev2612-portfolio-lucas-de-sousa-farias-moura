@@ -1,20 +1,3 @@
-
-         INSERIR O LINK DO PRORTFÓLIO NO GITHUB AQUI   
-
-após inserir o link na planilha você deve enviar o mesmo link na tarefa.
-
-
-
-Objetivo: Criar um repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional.
-
-1. Instruções Iniciais
-Criação do Repositório: Crie um repositório público com o nome portfolio ou use o seu username (ex: seu-usuario/portfolio-seu-nome-completo) para que o README apareça na sua página inicial do GitHub.
-Foto de Perfil: Utilize uma foto profissional. Caso não possua uma, utilize ferramentas de IA (como o Bing Image Creator ou Canva) para gerar um retrato em ambiente de escritório ou fundo neutro. Regras: Sem boné, óculos de sol ou expressões informais.
-Estrutura de Pastas: O repositório deve ser organizado por pastas nomeadas conforme o projeto.
-Exemplo: /projeto-banco-dados-concessionaria
-2. Modelo: README Principal (Raiz)
-Copie e adapte o código abaixo para o arquivo README.md na raiz do seu repositório.
-
 # [Lucas de Sousa Farias Moura]
 > Estudante de [Engenharia de Software]
  
@@ -58,6 +41,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex2/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex3/) |
+| **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex4/) |
 
  
 #### 🤖 Inteligência Artificial
