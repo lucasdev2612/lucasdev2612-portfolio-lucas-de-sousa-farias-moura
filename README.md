@@ -39,11 +39,12 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+| **O Algoritmo de Auditoria de Dados** | Desenvolver um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./ex1/) |
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex2/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex3/) |
-| **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex4/) |
-| **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex5/) |
-| **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex6/) |
+| **Traduzindo Lógica para Python** | Leia atentamente os pseudocódigos abaixo. Cada um representa uma função complexa. Sua tarefa é escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./ex4/) |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./ex5/) |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./ex6/) |
 | **Sistema de Auditoria de Recursos Corporativos** | Simular a estrutura hierárquica de uma empresa em Python e calcular recursivamente seu orçamento, aplicando conceitos de recursão, *args, **kwargs e decorators de auditoria. | [Ver Projeto](./ex8/) |
 
 
