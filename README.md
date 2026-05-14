@@ -44,6 +44,8 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex4/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex5/) |
 | **Modularização** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./ex6/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Simular a estrutura hierárquica de uma empresa em Python e calcular recursivamente seu orçamento, aplicando conceitos de recursão, *args, **kwargs e decorators de auditoria. | [Ver Projeto](./ex8/) |
+
 
 
  
